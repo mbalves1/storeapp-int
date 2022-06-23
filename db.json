@@ -1,0 +1,16 @@
+{
+  "products:" : {
+     "internet": [
+        {"type": "100 Mega", "price": "40"},
+        {"type": "200 Mega", "price": "60"},
+        {"type": "300 Mega", "price": "80"}
+      ],
+      "telefone": [
+        {"type": "Ilimitado Fixo Brasil", "price": "40"}
+      ],
+      "tv": [
+        {"type": "Ultimate HD", "price": "100"},
+        {"type": "Full HD", "price": "120"}
+      ]
+    }
+}
